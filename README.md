@@ -1,1 +1,1 @@
-# sripting
+# scripting
